@@ -1,0 +1,10 @@
+// JSON - java script object notation
+
+{
+  "employees": [
+    { "firstName": "John", "lastName": "Doe" },
+    { "firstName": "Anna", "lastName": "Smith" },
+    { "firstName": "Peter", "lastName": "Jones" }
+  ]
+}
+
